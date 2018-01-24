@@ -1,6 +1,6 @@
 {
   "name": "xtrica-connection",
-  "version": "1.0.1516817549",
+  "version": "1.0.1516817656",
   "description": "Xtrica Connection: A javascript class that detects network connectivity status and changes.",
   "main": "index.js",
   "author": {
