@@ -1,0 +1,1 @@
+# Xtrica Connection: A javascript class that detects network connectivity status and changes.
