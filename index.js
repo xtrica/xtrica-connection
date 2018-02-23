@@ -1,5 +1,5 @@
 /*
- * xtrica-connection v1.0.1519356261 (https://xtrica.com)
+ * xtrica-connection v1.0.1519356272 (https://xtrica.com)
  * Copyright 2017-2018 (or 2150?) Xtrica
  * Licensed under MIT
  */
